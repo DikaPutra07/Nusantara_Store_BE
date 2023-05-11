@@ -12,20 +12,23 @@ module.exports = {
     "password": db_pass,
     "database": db_name,
     "host": db_host,
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "port": db_port
   },
   "test": {
     "username": db_user,
     "password": db_pass,
     "database": db_name,
     "host": db_host,
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "port": db_port
   },
   "production": {
     "username": db_user,
     "password": db_pass,
     "database": db_name,
     "host": db_host,
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "port": db_port
   }
 }
