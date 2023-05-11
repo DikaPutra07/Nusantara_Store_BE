@@ -104,13 +104,13 @@ const getProductByShop = async (req, res) => {
 const createProduct = async (req, res) => {
     const product = req.body;
 
-    console.log(product);
+    // console.log(product);
 
     const uploadRes = await cloudinary.uploader.upload(product.image, {
         upload_preset: 'NusantaraStore'
     });
 
-    console.log(uploadRes);
+    // console.log(uploadRes);
 
     productsService.createProduct({
         name: product.name,
