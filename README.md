@@ -4,7 +4,7 @@
 | ---------------------- | -------------- |
 | Andika Laksana Putra   | 5025211001     |
 
-Berikut ini CDM dan PDM dari Nusantara Store
+Berikut ini CDM, PDM, dan Dokumentasi API Postman dari Nusantara Store
 
 CDM
 
@@ -13,3 +13,5 @@ CDM
 PDM
 
 ![Bismillah_FP_MCI_Physical_Export-2023-05-11_21-00](https://github.com/DikaPutra07/Nusantara_Store_BE/assets/92737767/d36b1b18-4db9-4788-af97-15932bc1eaca)
+
+Untuk dokumentasi API Postman bisa diaccess [disini](https://documenter.getpostman.com/view/26698300/2s93ebUBHw)
